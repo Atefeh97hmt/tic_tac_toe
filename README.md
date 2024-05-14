@@ -17,26 +17,26 @@ This is a simple command-line implementation of the classic Tic-Tac-Toe game in 
 ## Example
 ```
     |    |  
--------------
+--------------
     |    |  
--------------
+--------------
     |    |
   
 Player X, enter the row (0, 1, 2): 1
 Player X, enter the column (0, 1, 2): 1
 
     |    |  
--------------
+--------------
     | X  |  
--------------
+--------------
     |    |  
 
 Player O, enter the row (0, 1, 2): 0
 Player O, enter the column (0, 1, 2): 0
 
 O   |    |  
--------------
+--------------
     | X  |  
--------------
+--------------
     |    |  
 ```
